@@ -1,0 +1,15 @@
+/**/
+#timepad {
+    z-index: 1:
+}
+
+#time {
+ position: absolute;
+ text-align: center;
+ line-height: 500px;
+ font-family: helvetica;
+ font-size: 42px;
+ font-stretch: expanded;
+ z-index:1;
+}
+
